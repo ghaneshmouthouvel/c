@@ -99,6 +99,13 @@ You can find the All ▲lgorithms categories at [algorithms.com/categories](http
  - [Merge sort](sorting/merge_sort.c)
  - [Quick sort](sorting/quick_sort.c)
  - [Selection sort](sorting/selection_sort.c)
+ - [Heap sort](sorting/Heap_sort.c)
+ - [Bucket sort](sorting/bucket_sort.c)
+ - [Counting sort](sorting/counting_sort.c)
+ - [Radixsort](sorting/radix_sort.c)
+ - [Topological sort](sorting/topological_sorting.c)
+ - [Hashing](sorting/hashing.c)
+
 
 ## Strings
 
